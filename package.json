@@ -1,6 +1,10 @@
 {
   "name": "test-to-earn",
   "version": "0.1.0",
+  "engines" : { 
+    "npm" : ">=8.0.0 <9.0.0",
+    "node" : ">=16.0.0 <17.0.0"
+  },
   "private": true,
   "proxy": "http://3.87.69.119:5000",
   "homepage": "http://localhost:3000/",
