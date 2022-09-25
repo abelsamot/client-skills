@@ -1,0 +1,49 @@
+.page{
+    min-height:80vh;
+}
+
+.pageSettings{
+    min-height:110vh;
+}
+
+.settings{
+    margin-top:30vh;
+    min-height:10vh;
+}
+
+
+.titleCenter{
+    text-align: center;
+}
+
+.myAccountSettings{
+    margin-bottom:10vh;
+}
+
+.profileBar{
+    background-color:#fff8e8;
+    width:100%;
+    height: 200px;
+}
+
+.regularCol{
+    height: 200px;
+}
+
+.headerImage{
+    width:150px;
+    border-radius: 75px;
+}
+
+.titleProfile{
+    display: flex;
+    align-items: center;
+}
+
+.userMenue{
+    background-color:#F7F5FC;
+    width:100%;
+    height: 40px;
+    border-top:1px solid;
+    border-color:#D3CDE3;
+}
